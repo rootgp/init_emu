@@ -2,7 +2,7 @@
 
 Copyright © 2019 Gabriel Polastrini
 
-If you want to understand why i made this script, I worte a post on my blog explaining this, feel free to check it out!
+If you want to understand why i made this script and a video tutorial of how to use the script, I worte a post on my blog explaining this, feel free to check it out!
 https://gabrielpolastrini.com/blog/posts/init_emu.html
 
 
