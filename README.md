@@ -2,12 +2,11 @@
 
 Copyright © 2019 Gabriel Polastrini
 
-If you want to understand why i made this script, I worte an post in my blog explaining this, feel free to check it out!
+If you want to understand why i made this script, I worte a post on my blog explaining this, feel free to check it out!
 https://gabrielpolastrini.com/blog/posts/init_emu.html
 
 
-*This script is configured with the Pixel 2 emulator. If you don't have the Pixel 2 emulator, the script won't work.
-If you want to change the emulator, edit the line ```emulator @ Pixel_2``` with the emulator you have installed.
+*This script is configured with the Pixel 2 emulator. If you want to change the emulator, edit the line ```emulator @ Pixel_2``` with the emulator you have installed.
 
 ## usage
 
