@@ -1,5 +1,7 @@
 # init_emu
 
+Copyright © 2019 Gabriel Polastrini
+
 If you want to understand why i made this script, I worte an post in my blog explaining this, feel free to check it out!
 https://gabrielpolastrini.com/blog/posts/init_emu.html
 
