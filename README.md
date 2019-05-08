@@ -10,7 +10,7 @@ https://gabrielpolastrini.com/blog/posts/init_emu.html
 
 ## usage
 
-add this to lines into your .bashrc:
+add this two lines into your .bashrc:
 
 ```
 export ANDROID_HOME=$HOME/Android/Sdk
