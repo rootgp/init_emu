@@ -6,7 +6,7 @@ If you want to understand why i made this script and a video tutorial of how to 
 https://gabrielpolastrini.com/blog/posts/init_emu.html
 
 
-*This script is configured with the Pixel 2 emulator. If you want to change the emulator, edit the line ```emulator @ Pixel_2``` with the emulator you have installed.
+*This script is configured with the Pixel 2 emulator. If you want to change the emulator, edit the line ```emulator @Pixel_2``` with the emulator you have installed.
 
 ## usage
 
