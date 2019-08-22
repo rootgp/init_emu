@@ -15,7 +15,7 @@ export ANDROID_HOME=$HOME/Android/Sdk
 ```
 export PATH=$PATH:$ANDROID_HOME/tools
 ```
-clone the repository into yout home dir:
+clone the repository into your home dir:
 
 ```
 cd ~
