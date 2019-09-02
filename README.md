@@ -1,4 +1,4 @@
-# init_emu
+# android-emulator
 
 Copyright © 2019 Gabriel Polastrini
 
